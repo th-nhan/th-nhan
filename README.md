@@ -40,46 +40,6 @@
 
 ---
 
-## 📌 Featured Project
-
-### 🦷 Dental Clinic Management System
-**Role:** Full-stack Developer  
-
-**Tech Stack:** Laravel, MySQL, Bootstrap, JavaScript  
-
-**Key Features:**
-- MVC architecture with Laravel  
-- Doctor scheduling system (Morning / Afternoon / All-day)  
-- Time overlap handling & conflict prevention  
-- Normalized database with Foreign Keys  
-- Responsive dashboard for receptionist & dentist  
-
-🔗 *Project link:* *(Add GitHub repo link here)*
-
----
-
-## 📜 Certifications
-
-- Google AI Essentials (2024)
-
----
-
-## 🌐 Languages
-
-- Vietnamese: Native  
-- English: TOEIC 650  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=th-nhan&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th-nhan&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/th-nhan  
