@@ -11,9 +11,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Sinh viên **Kỹ thuật Công nghệ Thông tin** – Đại học Công nghệ Sài Gòn  
+- 🎓 Sinh viên **Công nghệ Thông tin** – Đại học Công nghệ Sài Gòn  
 - 🌱 Hiện đang học và thực hành **Laravel, RESTful API, MVC Architecture**  
-- 💼 Mục tiêu: **Web Developer Intern / Junior Backend Developer**  
+- 💼 Mục tiêu: **Web Developer Intern**  
 - 🔍 Quan tâm đến **Web Application, Backend Logic, Database Design**  
 - 📫 Email: **dothanhnhan1024@gmail.com**
 
