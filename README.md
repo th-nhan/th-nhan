@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Đỗ Thành Nhân</h1>
-<h3 align="center">Intern Web Developer | Laravel | PHP | JavaScript</h3>
+<h3 align="center">Web Developer | Laravel | PHP | JavaScript</h3>
 
 <p align="center">
   <a href="https://github.com/th-nhan">
