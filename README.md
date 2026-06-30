@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Đỗ Thành Nhân</h1>
-<h3 align="center">Software Developer | Full-stack Web</h3>
+<h3 align="center">Software Developer | Full-Stack Web Developer</h3>
 
 <p align="center">
   <a href="https://github.com/th-nhan">
@@ -9,50 +9,114 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Sinh viên **Công nghệ Thông tin** – Đại học Công nghệ Sài Gòn (STU)
-- 💼 Chuyên môn: **Software Developer** với kinh nghiệm quản lý dự án và leadership frontend.
-- 🚀 Kinh nghiệm thực tế: Đã thực hiện nhiều dự án từ Website Streaming (React/Django), Hệ thống quản lý phòng khám (Laravel), đến các hệ thống Booking (React/Laravel) và VMS (Angular).
-- 🤖 Quan tâm sâu sắc đến việc tích hợp **AI (Gemini API, Ollama)** vào các ứng dụng thực tế.
-- 🏢 Thực tập sinh chuyên nghiệp tại **TMA Solutions** (2026).
+I'm a passionate **Software Developer** with hands-on experience building modern web applications using **Angular, React, Laravel, and MySQL**. I enjoy developing scalable software, creating intuitive user interfaces, and solving real-world business problems.
+
+I completed a **3-month Software Developer Internship at TMA Solutions**, where I worked on an enterprise **Video Management System**, contributing to frontend development, unit testing, and Agile sprint delivery.
+
+- 🎓 Information Technology Student – Saigon Technology University (STU)
+- 💼 Interested in Full-Stack Web Development
+- 🌱 Currently learning Software Architecture, AI Integration, and Cloud Technologies
+- 🤖 Exploring AI-powered development tools and LLM integration
 - 📫 Email: **dothanhnhan1024@gmail.com**
 
 ---
 
-## 🛠️ Technical Skills
+# 💼 Experience
 
-💻 Programming Languages
-- PHP: Thành thạo với Laravel
+## Software Developer Intern
+**TMA Solutions**  
+**Mar 2026 – Jun 2026**
 
-- JavaScript: Chuyên sâu với TypeScript và các framework như Angular, React
+Worked in an Agile Scrum team developing an enterprise **Video Management System** using **Angular**.
 
-- HTML5, CSS3: Sử dụng kết hợp với các bộ thư viện UI/UX hiện đại như Tailwind CSS, PrimeNG, và Bootstrap
+### Responsibilities
 
-### ⚙️ Frameworks & Libraries
-- **Frontend:** React, Angular, Tailwind CSS, Bootstrap, PrimeNG
-- **Backend:** Laravel
+- Developed responsive UI components and real-time monitoring dashboards using Angular and PrimeNG.
+- Built an interactive Camera Canvas supporting Line Crossing, Exclusion Zone, and Product Counting configurations.
+- Customized PrimeNG components to optimize high-density information display and application performance.
+- Managed Angular component lifecycle using `ngOnInit` and `ngOnDestroy`.
+- Implemented reusable Services with RxJS and Parent-Child communication using `@Input()` and `@Output()`.
+- Wrote automated unit tests using Jasmine and Karma, achieving over **85% code coverage** for critical business logic.
+- Followed Gitflow workflow, participated in Merge Requests, Git rebase, and peer code reviews on GitLab.
 
-### 🗄️ Database & Cloud
-- MySQL, Docker & Docker Compose
-- Deployment: Vercel
+**Technologies**
 
-### 🔧 Tools & Workflow
-- **Version Control:** Git (Rebase, Stash, Conflict Resolution)
-- **Testing:** Unit Testing (Jasmine, Karma)
-- **Development:** VS Code, Postman, AI-driven development workflows
-
----
-
-## 🤝 Connect With Me
-
-- GitHub: https://github.com/th-nhan
-- Email: dothanhnhan1024@gmail.com
+Angular • TypeScript • PrimeNG • RxJS • Jasmine • Karma • Git • GitLab 
 
 ---
 
-⭐ *Feel free to explore my repositories and give a star if you find something useful!*
+# 🛠 Technical Skills
 
-<h3 align="left">Snake Eating GitHub Contributions</h3>
+## Programming Languages
+
+- PHP
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+
+## Frontend
+
+- Angular
+- React
+- PrimeNG
+- Tailwind CSS
+- Bootstrap
+
+## Backend
+
+- Laravel
+- RESTful API
+
+## Database
+
+- MySQL
+- SQL Server
+- PostgreSQL
+
+## Testing
+
+- Unit Testing (Karma, Jasmine)
+
+## Tools
+
+- Git
+- GitLab
+- Docker
+- Postman
+- Jira
+
+## Methodologies
+
+- Agile Scrum
+- Gitflow
+- Code Review
+- Clean Code
+- MVC Architecture
+
+---
+
+# 🤖 AI Tools
+
+- Stitch AI
+- Gemini API
+- Ollama
+- Prompt Engineering
+- AI-assisted Development
+
+---
+
+# 📫 Connect With Me
+
+- GitHub: **https://github.com/th-nhan**
+- Email: **dothanhnhan1024@gmail.com**
+
+---
+
+⭐ Feel free to explore my repositories and leave a ⭐ if you find them helpful!
+
+<h3 align="left">🐍 Snake Eating GitHub Contributions</h3>
 
 ![snake gif](https://github.com/th-nhan/th-nhan/blob/output/github-snake-dark.svg)
