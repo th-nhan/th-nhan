@@ -140,19 +140,12 @@ Worked in an Agile Scrum team developing an enterprise **Video Management System
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=th-nhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=th-nhan&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th-nhan&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=th-nhan&theme=tokyo-night&hide_border=true" alt="commit activity graph" />
 </p>
-
-> 💡 **Ghi chú:** Khung Streak (`github-readme-streak-stats`) tự động đếm số ngày push liên tiếp dựa trên lịch sử commit công khai — không cần cấu hình thêm, chỉ cần thay `th-nhan` bằng đúng username GitHub của bạn nếu khác.
 
 ---
 
