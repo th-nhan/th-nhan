@@ -140,7 +140,7 @@ Worked in an Agile Scrum team developing an enterprise **Video Management System
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=th-nhan&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=th-nhan&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
