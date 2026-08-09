@@ -2,6 +2,9 @@
 <h3 align="center">Software Developer | Full-Stack Web Developer</h3>
 
 <p align="center">
+  <a href="https://portfolio-six-wine-rgm22ii61m.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://github.com/th-nhan">
     <img src="https://komarev.com/ghpvc/?username=th-nhan&label=Profile%20views&color=0e75b6&style=flat" alt="th-nhan" />
   </a>
@@ -22,6 +25,7 @@ I completed a **3-month Software Developer Internship at TMA Solutions**, where 
 - 💼 Interested in Full-Stack Web Development
 - 🌱 Currently learning Software Architecture, AI Integration, and Cloud Technologies
 - 🤖 Exploring AI-powered development tools and LLM integration
+- 🌐 Portfolio: **[View Portfolio](https://portfolio-six-wine-rgm22ii61m.vercel.app/)**
 - 📫 Email: **dothanhnhan1024@gmail.com**
 
 ---
@@ -160,11 +164,14 @@ Worked in an Agile Scrum team developing an enterprise **Video Management System
 ## 📫 Connect With Me
 
 <p align="center">
+  <a href="https://portfolio-six-wine-rgm22ii61m.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://github.com/th-nhan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="mailto:dothanhnhan1024@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
