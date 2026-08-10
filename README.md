@@ -165,7 +165,7 @@ Worked in an Agile Scrum team developing an enterprise **Video Management System
 
 <p align="center">
   <a href="https://portfolio-six-wine-rgm22ii61m.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/_Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/th-nhan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
