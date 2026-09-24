@@ -147,10 +147,6 @@ Worked in an Agile Scrum team developing an enterprise **Video Management System
   <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=th-nhan&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=th-nhan&theme=tokyo-night&hide_border=true" alt="commit activity graph" />
-</p>
-
 ---
 
 ## 🐍 Snake Eating GitHub Contributions
